@@ -1,4 +1,4 @@
 document.getElementById("clickMe").addEventListener("click", function () {
   document.getElementById("message").textContent =
-    "You did clicked the button!";
+    "You clicked the button betch!";
 });

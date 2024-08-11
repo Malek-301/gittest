@@ -8,7 +8,7 @@ h1 {
   color: #333;
 }
 body {
-  background-color: #007bff;
+  background-color: hsl(93, 100%, 50%);
 }
 
 button {
